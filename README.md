@@ -3,6 +3,8 @@
 ## Overview and Problem Statement
 This repository is dedicated to the analysis and prediction of earthquakes using a dataset that spans from 1990 to 2023. The primary objectives of this project are to explore the seismic activity data, gain insights, and develop predictive models to anticipate future earthquakes.
 
+The earthquakes dataset represents a fundamental information source for scientific research, public safety, and community awareness. We are to analyze historical data and build predictive models. This dataset can significantly contribute to mitigating seismic risks and protecting people and infrastructure from the consequences of earthquakes.
+
 ## Project Objectives and Approach
 The project will use Linear Regression. The model will be trained on the dataset and it's performance will be evaluated on a held-out test set. The best model will be deployed to production so that it can be used to predict future earthquakes.
 
