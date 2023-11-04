@@ -21,7 +21,9 @@ The project will use Linear Regression. The model will be trained on the dataset
 - **Visualization**: We create informative visualizations to illustrate the findings and predictions, helping to communicate results effectively.
 
 ## Dataset
-The earthquake data used in this project is sourced from the Kaggle dataset titled "All the Earthquakes Dataset." You can access the dataset at the following URL:
+The earthquake data used in this project is sourced from the Kaggle dataset titled "All the Earthquakes Dataset." 
+
+- You can access the dataset at the following URL:
 [Earthquake Dataset on Kaggle]([insert-link-to-dataset](https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023))
 
 Please ensure that you comply with the dataset's licensing and usage terms when utilizing it for your research and analysis.
