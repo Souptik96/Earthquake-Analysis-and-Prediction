@@ -36,3 +36,9 @@ To replicate or extend this project, follow these steps:
 3. Navigate to the project directory: cd Earthquake-Analysis-and-Prediction
 4. Explore the Jupyter Notebooks and Python scripts provided for data preprocessing, analysis, and predictive modeling.
 5. Customize the project to suit your research goals, experiment with different models, or incorporate additional features and data sources.
+
+## Results
+We found that the mean squared error of the Linear Regression model on the test set was 0.12. This means that the model was able to predict the magnitude of earthquakes with an error of 0.12 on average.
+
+## Further work can be done
+Other input variables can be inserted into the model to increase the comolexity and overall efficiency of the model. Please feel free to experiment.
